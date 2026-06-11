@@ -137,17 +137,6 @@ End-to-end customer segmentation using **Linear Regression, Logistic Regression,
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Trophies will appear automatically as you make commits, get stars, and grow your profile! -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=msohaibafzal99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
