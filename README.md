@@ -123,14 +123,15 @@ End-to-end customer segmentation using **Linear Regression, Logistic Regression,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msohaibafzal99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msohaibafzal99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msohaibafzal99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msohaibafzal99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msohaibafzal99&theme=tokyonight&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=msohaibafzal99&theme=tokyonight&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,7 +141,7 @@ End-to-end customer segmentation using **Linear Regression, Logistic Regression,
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=msohaibafzal99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=msohaibafzal99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -150,7 +151,7 @@ End-to-end customer segmentation using **Linear Regression, Logistic Regression,
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msohaibafzal99&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msohaibafzal99&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
